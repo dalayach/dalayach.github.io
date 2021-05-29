@@ -2,20 +2,25 @@ package testPackage;
 
 import javax.swing.JFrame;
 
-public class TestClass
+public class TestClass extends JFrame
 {
+
+   public TestClass()
+   {
+   
+      setTitle("TestClass JFrame title");
+      setSize(300, 300);
+      setLocation(300, 300);
+      setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+   	
+      setVisible(true);
+   
+   }
 
    public static void main(String[] args)
    {
    
-      JFrame frame = new JFrame();
-   
-      frame.setTitle("TestClass JFrame title");
-      frame.setSize(300, 300);
-      frame.setLocation(300, 300);
-      frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-   	
-      frame.setVisible(true);
+      new TestClass();
    
    }
 
