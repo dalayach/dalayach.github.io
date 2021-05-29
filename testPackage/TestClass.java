@@ -8,7 +8,7 @@ public class TestClass extends JFrame
    public TestClass()
    {
    
-      setTitle("TestClass JFrame title");
+      setTitle("Attempt A");
       setSize(300, 300);
       setLocation(300, 300);
       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
