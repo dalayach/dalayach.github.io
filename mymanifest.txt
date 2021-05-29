@@ -1,0 +1,3 @@
+Permissions: sandbox
+Codebase: dalayach.github.io
+Application-Name: TestClass

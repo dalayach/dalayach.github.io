@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase=
+"https://dalayach.github.io" 
+    href="TestClass.jnlp">
+    <information>
+        <title>TestClass Title</title>
+        <vendor>TestClass Vendor</vendor>
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.7+"
+              href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="TestClass.jar"
+            main="true" />
+
+    </resources>
+    <application-desc
+         name="TestClass application-desc name"
+         main-class=
+           "TestClass"
+         width="300"
+         height="300">
+     </application-desc>
+     <update check="background"/>
+</jnlp>                                   
