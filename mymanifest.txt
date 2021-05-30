@@ -1,4 +1,4 @@
 Permissions: sandbox
 Codebase: dalayach.github.io
 Application-Name: TestClass
-Main-Class: testPackage.TestClass
+Main-Class: testPackage.TestClazs
