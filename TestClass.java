@@ -6,7 +6,7 @@ public class TestClass
    public static void main(String[] args)
    {
    
-      JOptionPane.showMessageDialog(null, "B");
+      JOptionPane.showMessageDialog(null, System.getProperty("java.version"));
    
    }
 
