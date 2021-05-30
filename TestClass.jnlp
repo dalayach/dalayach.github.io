@@ -17,7 +17,7 @@
     <application-desc
          name="TestClass application-desc name"
          main-class=
-	    "testPackage.TestClass"
+	    "TestClass"
          width="300"
          height="300">
      </application-desc>

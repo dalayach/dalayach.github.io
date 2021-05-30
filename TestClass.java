@@ -1,6 +1,4 @@
-package testPackage;
-
-import javax.swing.JOptionPane;
+ import javax.swing.JOptionPane;
 
 public class TestClass
 {
