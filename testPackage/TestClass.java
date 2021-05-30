@@ -1,28 +1,15 @@
 package testPackage;
 
-import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 
-public class TestClass extends JFrame
+public class TestClass
 {
-
-   public TestClass()
-   {
-   
-      setTitle("Attempt d");
-      setSize(300, 300);
-      setLocation(300, 300);
-      setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-   	
-      setVisible(true);
-   
-   }
 
    public static void main(String[] args)
    {
    
-      new TestClass();
+      JOptionPane.showMessageDialog(null, "Hello World!");
    
    }
 
 }
-
