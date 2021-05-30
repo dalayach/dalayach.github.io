@@ -7,6 +7,6 @@
     deployJava.createWebStartLaunchButton(url, '1.6.0');
 </script>
 
-<a href="TestClass.jnlp">Launch</a>
+And if you can't see the orange "Launch" box, click <a href="TestClass.jnlp">HERE</a> instead!
 
-Attempt13
+Attempt14
