@@ -1,4 +1,4 @@
- import javax.swing.JOptionPane;
+import javax.swing.JOptionPane;
 
 public class TestClass
 {
@@ -6,7 +6,7 @@ public class TestClass
    public static void main(String[] args)
    {
    
-      JOptionPane.showMessageDialog(null, "Hello World!");
+      JOptionPane.showMessageDialog(null, "A");
    
    }
 
